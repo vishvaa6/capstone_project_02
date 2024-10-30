@@ -11,7 +11,7 @@ class StartStop(Data,Locators):
 
     WebDriverChrome = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
-    TimeOut = WebDriverWait(WebDriverChrome, 10)
+    TimeOut = WebDriverWait(WebDriverChrome, 20)
 
     def start(self):
         self.WebDriverChrome.maximize_window()
