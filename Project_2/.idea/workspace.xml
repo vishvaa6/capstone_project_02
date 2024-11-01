@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d6d83f9-5183-42b7-85dd-7bc26be0f48b" name="Changes" comment="Project_2" />
+    <list default="true" id="2d6d83f9-5183-42b7-85dd-7bc26be0f48b" name="Changes" comment="project_02">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,16 +14,17 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/vishvaa6/capstone_project_01",
-    "accountId": "f9be10f6-e7b0-46c4-9b71-95ecee7edd39"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vishvaa6/capstone_project_01&quot;,
+    &quot;accountId&quot;: &quot;f9be10f6-e7b0-46c4-9b71-95ecee7edd39&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
@@ -36,7 +39,7 @@
     "Python tests.Python tests in test_main.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/code_files/python_automation/orangehrm/Project_1",
+    "last_opened_file_path": "D:/code_files/python_automation/pythonProject",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -88,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project_2" />
+    <MESSAGE value="project_02" />
+    <option name="LAST_COMMIT_MESSAGE" value="project_02" />
   </component>
 </project>
